@@ -13,7 +13,7 @@ Alunos: Letícia Teles Machado, Pedro Henrique Britto Aragão Andrade, Thiago Sh
 
 ### Participação
 
-**Todos os integrantes estavam presentes em call durante toda a realização do projeto. Os commits foram distribuídos da seguinte maneira:**
+**Todos os integrantes estavam presentes em call durante toda a realização do projeto. Os commits simplesmente foram distribuídos da seguinte maneira:**
 
 Letícia Teles Machado:
 
